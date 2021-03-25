@@ -1,5 +1,5 @@
 <?php
 
-echo "see you" ;
+echo "see you!" ;
 
 ?>
